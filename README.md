@@ -1,12 +1,12 @@
 # LinkedIn-automation
-    A python web automation project for automating LinkedIn with functionalities like liking, connecting to people, personalised 
+  A python web automation project for automating LinkedIn with functionalities like liking, connecting to people, personalised 
   messaging, search for people and search for people in a specific entity.
 
 # Requirements
-1.Python and Jupyter notebook for the same
-2.Selenium web driver (for python)
-3.BeautifulSoup (bs4)
-4.Chrome driver (.exe)
+1. Python and Jupyter notebook for the same
+2. Selenium web driver (for python)
+3. BeautifulSoup (bs4)
+4. Chrome driver (.exe)
 
 All the above installations are recommended to be done using pip for your scalability.
 
