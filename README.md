@@ -1,5 +1,6 @@
 # LinkedIn-automation
-    A python web automation project for automating LinkedIn with functionalities like liking, connecting to people, personalised messaging, search for people and search for people in a specific entity.
+    A python web automation project for automating LinkedIn with functionalities like liking, connecting to people, personalised 
+  messaging, search for people and search for people in a specific entity.
 
 # Requirements
 1.Python and Jupyter notebook for the same
